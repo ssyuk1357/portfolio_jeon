@@ -1,5 +1,3 @@
-![KakaoTalk_20240701_110416362.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/66b85a39-f3ae-4d0a-a380-cdbdf6833f02/ab5e4bfa-f5ac-4dc5-b21c-088771c50bec/KakaoTalk_20240701_110416362.jpg)
-
 ## 🪪프로필
 
 ### 👤 **이름**
@@ -10,9 +8,9 @@
 
  [**ssyuk1357@gmail.com**](mailto:ssyuk1357@gmail.com)
 
-### 📂 **Github**
+### 📂 **Notion**
 
-https://github.com/Meaning-Mentos/portfolio_jeon
+[https://github.com/Meaning-Mentos/portfolio_jeon](https://feline-staircase-9cf.notion.site/4a6730ab7a494eda9254eaffc4b44ed8?pvs=4)
 
 ### ✏️학력
 
